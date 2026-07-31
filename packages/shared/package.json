@@ -1,0 +1,5 @@
+{
+  "name": "@approval-flow/shared",
+  "private": true,
+  "type": "module"
+}
